@@ -1,0 +1,1 @@
+<?=$this->QrCode->text('Hello World'); ?>
